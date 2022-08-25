@@ -1,0 +1,96 @@
+body {
+  background-color: darkgoldenrod;
+  color: darkred;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+/* .parentContainer {
+  border: solid black;
+  height: 42vh;
+} */
+
+.topText {
+  text-align: center;
+}
+
+.picContainer {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.vidContainer {
+  border: solid darkred;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.tobyPic {
+  width: 100%;
+  display: none;
+}
+
+.andrewPic {
+  width: 100%;
+  display: none;
+}
+
+.tomPic {
+  width: 50%;
+  display: block;
+  border: solid darkred;
+}
+
+.addPic {
+  margin-left: 47%;
+  margin-bottom: 50px;
+}
+
+.Tobey {
+  width: 100%;
+  display: none;
+}
+
+.Andrew {
+  width: 100%;
+  display: none;
+}
+
+.Tom {
+  width: 100%;
+  display: block;
+}
+
+.TobeySM {
+  width: 100%;
+  display: none;
+}
+
+.AndrewSM {
+  width: 100%;
+  display: none;
+}
+
+.TomSM {
+  width: 100%;
+  display: block;
+  text-align: center;
+}
+
+.tobeySynop {
+  display: none;
+}
+
+.andrewSynop {
+  display: none;
+  color: white;
+}
+
+.tomSynop {
+  display: block;
+  color: white;
+}

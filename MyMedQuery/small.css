@@ -1,0 +1,87 @@
+body {
+  background-color: darkred;
+  color: blue;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.topText {
+  text-align: center;
+}
+
+/* .parentContainer {
+  border: solid black;
+  height: 42vh;
+} */
+
+.picContainer {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.vidContainer {
+  border: solid blue;
+  height: 100%;
+}
+
+.tobyPic {
+  width: 100%;
+  display: block;
+  border: solid blue;
+}
+
+.andrewPic {
+  width: 100%;
+  display: none;
+}
+
+.tomPic {
+  width: 100%;
+  display: none;
+}
+
+.Tobey {
+  width: 100%;
+  display: block;
+}
+
+.Andrew {
+  width: 100%;
+  display: none;
+}
+
+.Tom {
+  width: 100%;
+  display: none;
+}
+
+.TobeySM {
+  width: 100%;
+  display: block;
+  text-align: center;
+}
+
+.AndrewSM {
+  width: 100%;
+  display: none;
+}
+
+.TomSM {
+  width: 100%;
+  display: none;
+}
+
+.tobeySynop {
+  display: block;
+  color: white;
+}
+
+.andrewSynop {
+  display: none;
+}
+
+.tomSynop {
+  display: none;
+}
